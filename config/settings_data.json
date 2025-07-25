@@ -1,1 +1,668 @@
-{"current":{"search_enabled":false,"icon":"material-icons-sharp","show_locale_selector":false,"show_currency_selector":false,"enable_payment_button":false,"sale_type":"percentage","icon_cart":"local_mall","color_announcement_bg":"#008037","color_announcement_text":"#FFFFFF","color_nav_bg":"#ffffff","color_primary":"#008037","color_secondary":"#000000","color_drawer_bg":"#FAF8FF","color_drawer_default":"#FAF8FF","color_drawer_border":"#000000","color_drawer_text":"#000000","color_drawer_primary":"#008037","color_drawer_button_text":"#ffffff","color_drawer_secondary":"#000000","color_drawer_input":"#E5E5E5","color_drawer_errors":"#FF0000","color_drawer_sales_price":"#FF0000","color_drawer_overlay":"#444444","color_drawer_overlay_opacity":92,"color_footer_bg":"#008037","color_footer_default":"#FFFFFF","color_footer_border":"#000000","color_footer_text":"#ffffff","color_footer_primary":"#F2ECFF","color_footer_secondary":"#8cc63e","color_footer_errors":"#8cc63e","color_overlay":"#000000","opacity_overlay":32,"favicon":"shopify:\/\/shop_images\/image00001_1_da131e11-0f6c-4257-bbaf-ff7353e7ea09.png","review_app":"fera","show_review_widget_under_atc_button":true,"share_facebook":false,"share_twitter":false,"share_pinterest":false,"share_whatsapp":false,"share_email":false,"share_messenger":false,"social_instagram_link":"https:\/\/www.instagram.com\/chloroessence?igsh=MWZyajlkaDRweDU5dQ==","social_tiktok_link":"https:\/\/www.tiktok.com\/@chloroessence?_t=8kUamVJus6h&_r=1","dbtfy_announcement_bar":true,"dbtfy_inventory_quantity":false,"dbtfy_instagram_feed":false,"dbtfy_newsletter_popup":false,"dbtfy_social_discount":false,"dbtfy_wish_list":false,"dbtfy_back_to_top":true,"dbtfy_custom_currencies":false,"dbtfy_product_tabs":false,"dbtfy_quick_compare":false,"dbtfy_size_chart":false,"dbtfy_cart_goal":false,"dbtfy_cart_savings":false,"dbtfy_cart_upsell":false,"dbtfy_quantity_breaks":false,"dbtfy_upsell_bundles":false,"dbtfy_upsell_popup":false,"dbtfy_addtocart_animation":true,"dbtfy_cart_discount":false,"dbtfy_delivery_time":true,"dbtfy_discount_saved":false,"dbtfy_sticky_addtocart":true,"dbtfy_trust_badge":false,"dbtfy_remove_debutify_branding":true,"dbtfy_collection_addtocart":false,"dbtfy_color_swatches":false,"dbtfy_mega_menu":false,"dbtfy_order_tracking":false,"dbtfy_cookie_box":false,"dbtfy_shop_protect":false,"dbtfy_addtocart_animation_interval":5,"dbtfy_sticky_addtocart_reviews":false,"dbtfy_sticky_addtocart_animation":true,"dbtfy_sticky_addtocart_mobile":true,"dbtfy_wish_list_bubble_animation":false,"dbtfy_wish_list_count":false,"checkout_logo_image":"shopify:\/\/shop_images\/Chloroessence_logo.jpg","checkout_logo_position":"left","checkout_logo_size":"small","checkout_input_background_color_mode":"white","checkout_accent_color":"#8cc63e","checkout_button_color":"#008037","sections":{"dbtfy-account-settings":{"type":"dbtfy-account-settings","settings":{}},"dbtfy-bullet-points":{"type":"dbtfy-bullet-points","settings":{"dbtfy_bullet_points_position":"under-product-price","dbtfy_bullet_points_alignment":"left","dbtfy_bullet_points_display_type":"inline"}},"dbtfy-cart-goal":{"type":"dbtfy-cart-goal","settings":{"dbtfy_cart_goal_before_text":"You're","dbtfy_cart_goal_amount":"70","dbtfy_cart_goal_after_text":"away from FREE shipping!","dbtfy_cart_goal_reached_text":"You are eligible for FREE shipping!","dbtfy_cart_goal_icons":"local_shipping"}},"dbtfy-cart-upsell":{"type":"dbtfy-cart-upsell","settings":{"dbtfy_cart_upsell_button_style":"btn--primary"}},"dbtfy-color-swatches":{"type":"dbtfy-color-swatches","settings":{}},"dbtfy-customizable-products":{"type":"dbtfy-customizable-products","settings":{}},"dbtfy-delivery-time":{"type":"dbtfy-delivery-time","blocks":{"4a0e6c71-9661-462a-9fca-72535cb5f936":{"type":"delivery_time","settings":{"title":"","dbtfy_delivery_time_icon_1":"","dbtfy_delivery_time_prefix_1":"Buy now to receive between","dbtfy_delivery_time_separator_1":"and","dbtfy_delivery_time_suffix_1":"","dbtfy_delivery_time_date_1":true,"dbtfy_delivery_time_format_1":"%b %d","dbtfy_delivery_time_from_1":2,"dbtfy_delivery_time_to_1":5,"dbtfy_delivery_time_exclude_days_1":"SAT, SUN","dbtfy_delivery_time_cut_off_1":false,"dbtfy_delivery_time_cut_off_time_1":"16:00:00","dbtfy_delivery_time_cut_off_message_1":"Order within","visibility_1":"all","collection_1":"frontpage","type_1":"","tag_1":"","product_1":"","dbtfy_delivery_time_icon_2":"local_shipping","dbtfy_delivery_time_prefix_2":"Buy now to receive in","dbtfy_delivery_time_separator_2":"and","dbtfy_delivery_time_suffix_2":"days","dbtfy_delivery_time_date_2":true,"dbtfy_delivery_time_format_2":"%b %d","dbtfy_delivery_time_from_2":7,"dbtfy_delivery_time_to_2":14,"dbtfy_delivery_time_exclude_days_2":"SAT, SUN","dbtfy_delivery_time_cut_off_2":false,"dbtfy_delivery_time_cut_off_time_2":"16:00:00","dbtfy_delivery_time_cut_off_message_2":"Order within","visibility_2":"all","collection_2":"","type_2":"","tag_2":"","product_2":"","dbtfy_delivery_time_icon_3":"local_shipping","dbtfy_delivery_time_prefix_3":"Buy now to receive in","dbtfy_delivery_time_separator_3":"-","dbtfy_delivery_time_suffix_3":"days","dbtfy_delivery_time_date_3":false,"dbtfy_delivery_time_format_3":"%b %d","dbtfy_delivery_time_from_3":7,"dbtfy_delivery_time_to_3":14,"dbtfy_delivery_time_exclude_days_3":"SAT, SUN","dbtfy_delivery_time_cut_off_3":false,"dbtfy_delivery_time_cut_off_time_3":"16:00:00","dbtfy_delivery_time_cut_off_message_3":"Order within","visibility_3":"all","collection_3":"","type_3":"","tag_3":"","product_3":"","dbtfy_delivery_time_icon_4":"local_shipping","dbtfy_delivery_time_prefix_4":"Buy now to receive in","dbtfy_delivery_time_separator_4":"-","dbtfy_delivery_time_suffix_4":"days","dbtfy_delivery_time_date_4":false,"dbtfy_delivery_time_format_4":"%b %d","dbtfy_delivery_time_from_4":7,"dbtfy_delivery_time_to_4":14,"dbtfy_delivery_time_exclude_days_4":"SAT, SUN","dbtfy_delivery_time_cut_off_4":false,"dbtfy_delivery_time_cut_off_time_4":"16:00:00","dbtfy_delivery_time_cut_off_message_4":"Order within","visibility_4":"all","collection_4":"","type_4":"","tag_4":"","product_4":"","dbtfy_delivery_time_icon_5":"local_shipping","dbtfy_delivery_time_prefix_5":"Buy now to receive in","dbtfy_delivery_time_separator_5":"-","dbtfy_delivery_time_suffix_5":"days","dbtfy_delivery_time_date_5":false,"dbtfy_delivery_time_format_5":"%b %d","dbtfy_delivery_time_from_5":7,"dbtfy_delivery_time_to_5":14,"dbtfy_delivery_time_exclude_days_5":"SAT, SUN","dbtfy_delivery_time_cut_off_5":false,"dbtfy_delivery_time_cut_off_time_5":"16:00:00","dbtfy_delivery_time_cut_off_message_5":"Order within","visibility_5":"all","collection_5":"","type_5":"","tag_5":"","product_5":"","dbtfy_delivery_time_icon_6":"local_shipping","dbtfy_delivery_time_prefix_6":"Buy now to receive in","dbtfy_delivery_time_separator_6":"-","dbtfy_delivery_time_suffix_6":"days","dbtfy_delivery_time_date_6":false,"dbtfy_delivery_time_format_6":"%b %d","dbtfy_delivery_time_from_6":7,"dbtfy_delivery_time_to_6":14,"dbtfy_delivery_time_exclude_days_6":"SAT, SUN","dbtfy_delivery_time_cut_off_6":false,"dbtfy_delivery_time_cut_off_time_6":"16:00:00","dbtfy_delivery_time_cut_off_message_6":"Order within","visibility_6":"all","collection_6":"","type_6":"","tag_6":"","product_6":"","dbtfy_delivery_time_icon_7":"local_shipping","dbtfy_delivery_time_prefix_7":"Buy now to receive in","dbtfy_delivery_time_separator_7":"-","dbtfy_delivery_time_suffix_7":"days","dbtfy_delivery_time_date_7":false,"dbtfy_delivery_time_format_7":"%b %d","dbtfy_delivery_time_from_7":7,"dbtfy_delivery_time_to_7":14,"dbtfy_delivery_time_exclude_days_7":"SAT, SUN","dbtfy_delivery_time_cut_off_7":false,"dbtfy_delivery_time_cut_off_time_7":"16:00:00","dbtfy_delivery_time_cut_off_message_7":"Order within","visibility_7":"all","collection_7":"","type_7":"","tag_7":"","product_7":"","dbtfy_delivery_time_icon_8":"local_shipping","dbtfy_delivery_time_prefix_8":"Buy now to receive in","dbtfy_delivery_time_separator_8":"-","dbtfy_delivery_time_suffix_8":"days","dbtfy_delivery_time_date_8":false,"dbtfy_delivery_time_format_8":"%b %d","dbtfy_delivery_time_from_8":7,"dbtfy_delivery_time_to_8":14,"dbtfy_delivery_time_exclude_days_8":"SAT, SUN","dbtfy_delivery_time_cut_off_8":false,"dbtfy_delivery_time_cut_off_time_8":"16:00:00","dbtfy_delivery_time_cut_off_message_8":"Order within","visibility_8":"all","collection_8":"","type_8":"","tag_8":"","product_8":"","dbtfy_delivery_time_icon_9":"local_shipping","dbtfy_delivery_time_prefix_9":"Buy now to receive in","dbtfy_delivery_time_separator_9":"-","dbtfy_delivery_time_suffix_9":"days","dbtfy_delivery_time_date_9":false,"dbtfy_delivery_time_format_9":"%b %d","dbtfy_delivery_time_from_9":7,"dbtfy_delivery_time_to_9":14,"dbtfy_delivery_time_exclude_days_9":"SAT, SUN","dbtfy_delivery_time_cut_off_9":false,"dbtfy_delivery_time_cut_off_time_9":"16:00:00","dbtfy_delivery_time_cut_off_message_9":"Order within","visibility_9":"all","collection_9":"","type_9":"","tag_9":"","product_9":"","dbtfy_delivery_time_icon_10":"🚚","dbtfy_delivery_time_prefix_10":"Buy now to receive between","dbtfy_delivery_time_separator_10":"and","dbtfy_delivery_time_suffix_10":"","dbtfy_delivery_time_date_10":true,"dbtfy_delivery_time_format_10":"%b %d","dbtfy_delivery_time_from_10":3,"dbtfy_delivery_time_to_10":5,"dbtfy_delivery_time_exclude_days_10":"SAT, SUN","dbtfy_delivery_time_cut_off_10":false,"dbtfy_delivery_time_cut_off_time_10":"16:00:00","dbtfy_delivery_time_cut_off_message_10":"Order within","visibility_10":"all","collection_10":"","type_10":"","tag_10":"","product_10":""}}},"block_order":["4a0e6c71-9661-462a-9fca-72535cb5f936"],"settings":{"dbtfy_delivery_time_position":"under-addtocart-button"}},"dbtfy-product-tabs":{"type":"dbtfy-product-tabs","settings":{"dbtfy_product_tabs_display_type":"vertical","dbtfy_product_tab_heading_color":"headings","dbtfy_product_tab_text_color":"text","dbtfy_product_tab_background_color":"accent_background"}},"dbtfy-product-swatches":{"type":"dbtfy-product-swatches","settings":{"dbtfy_product_swatches_show_in_grid":true}},"dbtfy-quantity-breaks":{"type":"dbtfy-quantity-breaks","blocks":{"25bcebcf-7ce5-4576-b7ee-7db9fdc5b59c":{"type":"product-break","settings":{"title":"","product_break_show_on_product_page":true,"product_break_visibility":"all","product_break_collection":"","product_break_types":"","product_break_tags":"","product_break_product":"chloro-essence-liquide-drops","product_break_range_1":2,"product_break_discount_code_1":"buy","product_break_discount_amount_1":"10","product_break_discount_type_1":"%","product_break_range_2":3,"product_break_discount_code_2":"15","product_break_discount_amount_2":"15","product_break_discount_type_2":"%","product_break_range_3":3,"product_break_discount_code_3":"","product_break_discount_amount_3":"","product_break_discount_type_3":"%","product_break_range_4":3,"product_break_discount_code_4":"","product_break_discount_amount_4":"","product_break_discount_type_4":"%","product_break_range_5":3,"product_break_discount_code_5":"","product_break_discount_amount_5":"","product_break_discount_type_5":"%"}},"96af0a1d-87b6-4af8-a251-412a79ea1bfd":{"type":"cart-break","disabled":true,"settings":{"title":"","cart_break_range_1":2,"cart_break_discount_code_1":"","cart_break_discount_amount_1":"10","cart_break_discount_type_1":"%","cart_break_range_2":3,"cart_break_discount_code_2":"","cart_break_discount_amount_2":"15","cart_break_discount_type_2":"%","cart_break_range_3":2,"cart_break_discount_code_3":"","cart_break_discount_amount_3":"","cart_break_discount_type_3":"%","cart_break_range_4":2,"cart_break_discount_code_4":"","cart_break_discount_amount_4":"","cart_break_discount_type_4":"%","cart_break_range_5":2,"cart_break_discount_code_5":"","cart_break_discount_amount_5":"","cart_break_discount_type_5":"%","cart_break_range_6":2,"cart_break_discount_code_6":"","cart_break_discount_amount_6":"","cart_break_discount_type_6":"%","cart_break_range_7":2,"cart_break_discount_code_7":"","cart_break_discount_amount_7":"","cart_break_discount_type_7":"%","cart_break_range_8":2,"cart_break_discount_code_8":"","cart_break_discount_amount_8":"","cart_break_discount_type_8":"%","cart_break_range_9":2,"cart_break_discount_code_9":"","cart_break_discount_amount_9":"","cart_break_discount_type_9":"%","cart_break_range_10":2,"cart_break_discount_code_10":"","cart_break_discount_amount_10":"","cart_break_discount_type_10":"%"}},"a99c73e3-7cff-4223-87d2-e5faf4aace27":{"type":"product-break","disabled":true,"settings":{"title":"","product_break_show_on_product_page":true,"product_break_visibility":"all","product_break_collection":"","product_break_types":"","product_break_tags":"","product_break_product":"","product_break_range_1":2,"product_break_discount_code_1":"","product_break_discount_amount_1":"","product_break_discount_type_1":"%","product_break_range_2":2,"product_break_discount_code_2":"","product_break_discount_amount_2":"","product_break_discount_type_2":"%","product_break_range_3":2,"product_break_discount_code_3":"","product_break_discount_amount_3":"","product_break_discount_type_3":"%","product_break_range_4":2,"product_break_discount_code_4":"","product_break_discount_amount_4":"","product_break_discount_type_4":"%","product_break_range_5":2,"product_break_discount_code_5":"","product_break_discount_amount_5":"","product_break_discount_type_5":"%"}}},"block_order":["25bcebcf-7ce5-4576-b7ee-7db9fdc5b59c","96af0a1d-87b6-4af8-a251-412a79ea1bfd","a99c73e3-7cff-4223-87d2-e5faf4aace27"],"settings":{"dbtfy_quantity_breaks_single_text":"Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_","dbtfy_quantity_breaks_price_type":"total_price","dbtfy_quantity_breaks_more_discount_text_before":"Add","dbtfy_quantity_breaks_more_discount_text_after":"more item to unlock","dbtfy_quantity_breaks_more_discount_text_after_percentage":"off","dbtfy_quantity_breaks_highest_discount_text":"Highest discount applied!"}},"dbtfy-size-chart":{"type":"dbtfy-size-chart","settings":{"dbtfy_size_chart_icon":"straighten","dbtfy_size_chart_title":"Size chart","dbtfy_size_chart_width":"large"}},"dbtfy-upsell-popup":{"type":"dbtfy-upsell-popup","settings":{"dbtfy_upsell_popup_width":"","dbtfy_upsell_popup_description":"See product details","dbtfy_upsell_popup_cart":"No thanks","dbtfy_upsell_popup_checkout":"Go to checkout →","text_alignment":"text-center","dbtfy_upsell_popup_range":75}},"drawer-menu":{"type":"drawer-menu","settings":{"drawer_link_toggle":true,"email":true,"phone":true,"show_social_medias":true,"hide_menu_icon":true,"title":"Menu","drawer_top_link_list":"main-menu","drawer_bottom_link_list":"footer"}},"announcement":{"type":"announcement","blocks":{"announcement-0":{"type":"message","settings":{"title":"","announcement_text":"<p>FREE Delivery On Orders Above 40$<\/p>"}}},"block_order":["announcement-0"],"settings":{"small_announcement_text":false,"show_social":true,"email":true,"phone":true,"left_message":"","right_message":"","announcement_autoplayspeed":5}},"header":{"type":"header","settings":{"main_menu_link_list":"main-menu","navigation_type":"center","logo_link":true,"default_logo":"shopify:\/\/shop_images\/image00001_1_da131e11-0f6c-4257-bbaf-ff7353e7ea09.png","inverted_logo":"shopify:\/\/shop_images\/image00001_1.png","mobile_logo":"shopify:\/\/shop_images\/image00001_1_da131e11-0f6c-4257-bbaf-ff7353e7ea09.png","default_logo_svg":"","inverted_logo_svg":"","mobile_logo_svg":"","logo_width":200,"logo_mobile_width":62}},"dbtfy-instagram-feed":{"type":"dbtfy-instagram-feed","settings":{"dbtfy_instagram_feed_icon":false,"dbtfy_instagram_feed_access_token":"","dbtfy_instagram_feed_full_width":false,"title":"From our Instagram","subtitle":"","dbtfy_instagram_feed_section_style":"section-border","dbtfy_instagram_feed_rows":"1","dbtfy_instagram_feed_desktop_grid":"6","dbtfy_instagram_feed_mobile_grid":"3"}},"guarantee":{"type":"guarantee","blocks":{"guarantee-0":{"type":"text","settings":{"title":"","image":"shopify:\/\/shop_images\/baseline_verified_black_48dp.png","guarantee_icon":"loyalty","heading_text":"Lab Tested","text":"<p>Liquid Chlorophyll is ISO approved<\/p>","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}},"guarantee-1":{"type":"text","settings":{"title":"","image":"shopify:\/\/shop_images\/baseline_support_agent_black_48dp.png","guarantee_icon":"loyalty","heading_text":"24\/7 Support","text":"<p>Whenever you need us we will be here to help<\/p>","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}},"guarantee-2":{"type":"text","settings":{"title":"","image":"shopify:\/\/shop_images\/baseline_science_black_48dp.png","guarantee_icon":"loyalty","heading_text":"Chemical Free","text":"<p>All Natural and Green<\/p>","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}},"53868ae3-4954-40b0-ba9a-e78082225c32":{"type":"text","settings":{"title":"","image":"shopify:\/\/shop_images\/baseline_local_shipping_black_48dp.png","guarantee_icon":"loyalty","heading_text":"Cash on Delivery","text":"<p>We offer Cash on delivery<\/p>","text_alignment":"text-center","text_alignment_mobile":"text-center","button_style":"btn-outline-primary","button_label":"","button_link":""}}},"block_order":["guarantee-0","guarantee-1","guarantee-2","53868ae3-4954-40b0-ba9a-e78082225c32"],"settings":{"show_guarantee":true,"guarantee_size":"xl","section_style":"section-border"}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"text","settings":{"title":"","column_width":2,"svg":"","img_url":"","logo_width":150,"heading_text":"Contact us","subtitle":"","text":"<p>Experience Chloro essence: energy, self-care, quality, any questions our customer support will make sure to help you.<\/p>","email":true,"phone":true,"show_social_media":true}},"footer-1":{"type":"link_list","settings":{"title":"","column_width":1,"heading_text":"Quick Links","subtitle":"","footer_link_list":"footer"}}},"block_order":["footer-0","footer-1"],"custom_css":[],"settings":{"show_social_media":true,"social_media_position_desktop":"right","social_title":"Follow our social media","show_payment_icons":true,"custom_credential":""}}},"content_for_index":[],"blocks":{"3753596010683798665":{"type":"shopify:\/\/apps\/pushdaddy-whatsapp-live-chat\/blocks\/app-embed\/e3f2054d-bf7b-4e63-8db3-00712592382c","disabled":false,"settings":{}},"4275615285897611771":{"type":"shopify:\/\/apps\/fera-product-reviews-app\/blocks\/embed\/2fbfcfa7-8a04-479f-89a8-0621fa099c51","disabled":false,"settings":{}},"2965712708760319418":{"type":"shopify:\/\/apps\/proof-bear-sales-popup\/blocks\/widget\/6e90b7fd-96ea-488b-9571-34f0c382838a","disabled":false,"settings":{}},"6544682535036668446":{"type":"shopify:\/\/apps\/pumper-bundle-qty\/blocks\/app-embed\/0856870d-2aca-4b1e-a662-cf1797f61270","disabled":false,"settings":{}},"10191866119664032810":{"type":"shopify:\/\/apps\/zoorix-sticky-atc\/blocks\/zoorix-head\/16cf6adc-8b22-4e73-be2b-b93c1acde1da","disabled":false,"settings":{"home_product":"","show_on_out_of_stock":true,"blacklisted_products":[],"blacklisted_collections":[]}}}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "search_enabled": false,
+    "icon": "material-icons-sharp",
+    "show_locale_selector": false,
+    "show_currency_selector": false,
+    "enable_payment_button": false,
+    "sale_type": "percentage",
+    "icon_cart": "local_mall",
+    "color_announcement_bg": "#008037",
+    "color_announcement_text": "#FFFFFF",
+    "color_nav_bg": "#ffffff",
+    "color_primary": "#008037",
+    "color_secondary": "#000000",
+    "color_drawer_bg": "#FAF8FF",
+    "color_drawer_default": "#FAF8FF",
+    "color_drawer_border": "#000000",
+    "color_drawer_text": "#000000",
+    "color_drawer_primary": "#008037",
+    "color_drawer_button_text": "#ffffff",
+    "color_drawer_secondary": "#000000",
+    "color_drawer_input": "#E5E5E5",
+    "color_drawer_errors": "#FF0000",
+    "color_drawer_sales_price": "#FF0000",
+    "color_drawer_overlay": "#444444",
+    "color_drawer_overlay_opacity": 92,
+    "color_footer_bg": "#008037",
+    "color_footer_default": "#FFFFFF",
+    "color_footer_border": "#000000",
+    "color_footer_text": "#ffffff",
+    "color_footer_primary": "#F2ECFF",
+    "color_footer_secondary": "#8cc63e",
+    "color_footer_errors": "#8cc63e",
+    "color_overlay": "#000000",
+    "opacity_overlay": 32,
+    "favicon": "shopify://shop_images/image00001_1_da131e11-0f6c-4257-bbaf-ff7353e7ea09.png",
+    "review_app": "fera",
+    "show_review_widget_under_atc_button": true,
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
+    "share_whatsapp": false,
+    "share_email": false,
+    "share_messenger": false,
+    "social_instagram_link": "https://www.instagram.com/chloroessence?igsh=MWZyajlkaDRweDU5dQ==",
+    "social_tiktok_link": "https://www.tiktok.com/@chloroessence?_t=8kUamVJus6h&_r=1",
+    "dbtfy_announcement_bar": true,
+    "dbtfy_inventory_quantity": false,
+    "dbtfy_instagram_feed": false,
+    "dbtfy_newsletter_popup": false,
+    "dbtfy_social_discount": false,
+    "dbtfy_wish_list": false,
+    "dbtfy_back_to_top": true,
+    "dbtfy_custom_currencies": false,
+    "dbtfy_product_tabs": false,
+    "dbtfy_quick_compare": false,
+    "dbtfy_size_chart": false,
+    "dbtfy_cart_goal": false,
+    "dbtfy_cart_savings": false,
+    "dbtfy_cart_upsell": false,
+    "dbtfy_quantity_breaks": false,
+    "dbtfy_upsell_bundles": false,
+    "dbtfy_upsell_popup": false,
+    "dbtfy_addtocart_animation": true,
+    "dbtfy_cart_discount": false,
+    "dbtfy_delivery_time": true,
+    "dbtfy_discount_saved": false,
+    "dbtfy_sticky_addtocart": true,
+    "dbtfy_trust_badge": false,
+    "dbtfy_remove_debutify_branding": true,
+    "dbtfy_collection_addtocart": false,
+    "dbtfy_color_swatches": false,
+    "dbtfy_mega_menu": false,
+    "dbtfy_order_tracking": false,
+    "dbtfy_cookie_box": false,
+    "dbtfy_shop_protect": false,
+    "dbtfy_addtocart_animation_interval": 5,
+    "dbtfy_sticky_addtocart_reviews": false,
+    "dbtfy_sticky_addtocart_animation": true,
+    "dbtfy_sticky_addtocart_mobile": true,
+    "dbtfy_wish_list_bubble_animation": false,
+    "dbtfy_wish_list_count": false,
+    "checkout_logo_image": "shopify://shop_images/Chloroessence_logo.jpg",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_input_background_color_mode": "white",
+    "checkout_accent_color": "#8cc63e",
+    "checkout_button_color": "#008037",
+    "sections": {
+      "dbtfy-account-settings": {
+        "type": "dbtfy-account-settings",
+        "settings": {}
+      },
+      "dbtfy-bullet-points": {
+        "type": "dbtfy-bullet-points",
+        "settings": {
+          "dbtfy_bullet_points_position": "under-product-price",
+          "dbtfy_bullet_points_alignment": "left",
+          "dbtfy_bullet_points_display_type": "inline"
+        }
+      },
+      "dbtfy-cart-goal": {
+        "type": "dbtfy-cart-goal",
+        "settings": {
+          "dbtfy_cart_goal_before_text": "You're",
+          "dbtfy_cart_goal_amount": "70",
+          "dbtfy_cart_goal_after_text": "away from FREE shipping!",
+          "dbtfy_cart_goal_reached_text": "You are eligible for FREE shipping!",
+          "dbtfy_cart_goal_icons": "local_shipping"
+        }
+      },
+      "dbtfy-cart-upsell": {
+        "type": "dbtfy-cart-upsell",
+        "settings": {
+          "dbtfy_cart_upsell_button_style": "btn--primary"
+        }
+      },
+      "dbtfy-color-swatches": {
+        "type": "dbtfy-color-swatches",
+        "settings": {}
+      },
+      "dbtfy-customizable-products": {
+        "type": "dbtfy-customizable-products",
+        "settings": {}
+      },
+      "dbtfy-delivery-time": {
+        "type": "dbtfy-delivery-time",
+        "blocks": {
+          "4a0e6c71-9661-462a-9fca-72535cb5f936": {
+            "type": "delivery_time",
+            "settings": {
+              "title": "",
+              "dbtfy_delivery_time_icon_1": "",
+              "dbtfy_delivery_time_prefix_1": "Buy now to receive between",
+              "dbtfy_delivery_time_separator_1": "and",
+              "dbtfy_delivery_time_suffix_1": "",
+              "dbtfy_delivery_time_date_1": true,
+              "dbtfy_delivery_time_format_1": "%b %d",
+              "dbtfy_delivery_time_from_1": 2,
+              "dbtfy_delivery_time_to_1": 5,
+              "dbtfy_delivery_time_exclude_days_1": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_1": false,
+              "dbtfy_delivery_time_cut_off_time_1": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_1": "Order within",
+              "visibility_1": "all",
+              "collection_1": "frontpage",
+              "type_1": "",
+              "tag_1": "",
+              "product_1": "",
+              "dbtfy_delivery_time_icon_2": "local_shipping",
+              "dbtfy_delivery_time_prefix_2": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_2": "and",
+              "dbtfy_delivery_time_suffix_2": "days",
+              "dbtfy_delivery_time_date_2": true,
+              "dbtfy_delivery_time_format_2": "%b %d",
+              "dbtfy_delivery_time_from_2": 7,
+              "dbtfy_delivery_time_to_2": 14,
+              "dbtfy_delivery_time_exclude_days_2": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_2": false,
+              "dbtfy_delivery_time_cut_off_time_2": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_2": "Order within",
+              "visibility_2": "all",
+              "collection_2": "",
+              "type_2": "",
+              "tag_2": "",
+              "product_2": "",
+              "dbtfy_delivery_time_icon_3": "local_shipping",
+              "dbtfy_delivery_time_prefix_3": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_3": "-",
+              "dbtfy_delivery_time_suffix_3": "days",
+              "dbtfy_delivery_time_date_3": false,
+              "dbtfy_delivery_time_format_3": "%b %d",
+              "dbtfy_delivery_time_from_3": 7,
+              "dbtfy_delivery_time_to_3": 14,
+              "dbtfy_delivery_time_exclude_days_3": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_3": false,
+              "dbtfy_delivery_time_cut_off_time_3": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_3": "Order within",
+              "visibility_3": "all",
+              "collection_3": "",
+              "type_3": "",
+              "tag_3": "",
+              "product_3": "",
+              "dbtfy_delivery_time_icon_4": "local_shipping",
+              "dbtfy_delivery_time_prefix_4": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_4": "-",
+              "dbtfy_delivery_time_suffix_4": "days",
+              "dbtfy_delivery_time_date_4": false,
+              "dbtfy_delivery_time_format_4": "%b %d",
+              "dbtfy_delivery_time_from_4": 7,
+              "dbtfy_delivery_time_to_4": 14,
+              "dbtfy_delivery_time_exclude_days_4": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_4": false,
+              "dbtfy_delivery_time_cut_off_time_4": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_4": "Order within",
+              "visibility_4": "all",
+              "collection_4": "",
+              "type_4": "",
+              "tag_4": "",
+              "product_4": "",
+              "dbtfy_delivery_time_icon_5": "local_shipping",
+              "dbtfy_delivery_time_prefix_5": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_5": "-",
+              "dbtfy_delivery_time_suffix_5": "days",
+              "dbtfy_delivery_time_date_5": false,
+              "dbtfy_delivery_time_format_5": "%b %d",
+              "dbtfy_delivery_time_from_5": 7,
+              "dbtfy_delivery_time_to_5": 14,
+              "dbtfy_delivery_time_exclude_days_5": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_5": false,
+              "dbtfy_delivery_time_cut_off_time_5": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_5": "Order within",
+              "visibility_5": "all",
+              "collection_5": "",
+              "type_5": "",
+              "tag_5": "",
+              "product_5": "",
+              "dbtfy_delivery_time_icon_6": "local_shipping",
+              "dbtfy_delivery_time_prefix_6": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_6": "-",
+              "dbtfy_delivery_time_suffix_6": "days",
+              "dbtfy_delivery_time_date_6": false,
+              "dbtfy_delivery_time_format_6": "%b %d",
+              "dbtfy_delivery_time_from_6": 7,
+              "dbtfy_delivery_time_to_6": 14,
+              "dbtfy_delivery_time_exclude_days_6": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_6": false,
+              "dbtfy_delivery_time_cut_off_time_6": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_6": "Order within",
+              "visibility_6": "all",
+              "collection_6": "",
+              "type_6": "",
+              "tag_6": "",
+              "product_6": "",
+              "dbtfy_delivery_time_icon_7": "local_shipping",
+              "dbtfy_delivery_time_prefix_7": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_7": "-",
+              "dbtfy_delivery_time_suffix_7": "days",
+              "dbtfy_delivery_time_date_7": false,
+              "dbtfy_delivery_time_format_7": "%b %d",
+              "dbtfy_delivery_time_from_7": 7,
+              "dbtfy_delivery_time_to_7": 14,
+              "dbtfy_delivery_time_exclude_days_7": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_7": false,
+              "dbtfy_delivery_time_cut_off_time_7": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_7": "Order within",
+              "visibility_7": "all",
+              "collection_7": "",
+              "type_7": "",
+              "tag_7": "",
+              "product_7": "",
+              "dbtfy_delivery_time_icon_8": "local_shipping",
+              "dbtfy_delivery_time_prefix_8": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_8": "-",
+              "dbtfy_delivery_time_suffix_8": "days",
+              "dbtfy_delivery_time_date_8": false,
+              "dbtfy_delivery_time_format_8": "%b %d",
+              "dbtfy_delivery_time_from_8": 7,
+              "dbtfy_delivery_time_to_8": 14,
+              "dbtfy_delivery_time_exclude_days_8": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_8": false,
+              "dbtfy_delivery_time_cut_off_time_8": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_8": "Order within",
+              "visibility_8": "all",
+              "collection_8": "",
+              "type_8": "",
+              "tag_8": "",
+              "product_8": "",
+              "dbtfy_delivery_time_icon_9": "local_shipping",
+              "dbtfy_delivery_time_prefix_9": "Buy now to receive in",
+              "dbtfy_delivery_time_separator_9": "-",
+              "dbtfy_delivery_time_suffix_9": "days",
+              "dbtfy_delivery_time_date_9": false,
+              "dbtfy_delivery_time_format_9": "%b %d",
+              "dbtfy_delivery_time_from_9": 7,
+              "dbtfy_delivery_time_to_9": 14,
+              "dbtfy_delivery_time_exclude_days_9": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_9": false,
+              "dbtfy_delivery_time_cut_off_time_9": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_9": "Order within",
+              "visibility_9": "all",
+              "collection_9": "",
+              "type_9": "",
+              "tag_9": "",
+              "product_9": "",
+              "dbtfy_delivery_time_icon_10": "🚚",
+              "dbtfy_delivery_time_prefix_10": "Buy now to receive between",
+              "dbtfy_delivery_time_separator_10": "and",
+              "dbtfy_delivery_time_suffix_10": "",
+              "dbtfy_delivery_time_date_10": true,
+              "dbtfy_delivery_time_format_10": "%b %d",
+              "dbtfy_delivery_time_from_10": 3,
+              "dbtfy_delivery_time_to_10": 5,
+              "dbtfy_delivery_time_exclude_days_10": "SAT, SUN",
+              "dbtfy_delivery_time_cut_off_10": false,
+              "dbtfy_delivery_time_cut_off_time_10": "16:00:00",
+              "dbtfy_delivery_time_cut_off_message_10": "Order within",
+              "visibility_10": "all",
+              "collection_10": "",
+              "type_10": "",
+              "tag_10": "",
+              "product_10": ""
+            }
+          }
+        },
+        "block_order": [
+          "4a0e6c71-9661-462a-9fca-72535cb5f936"
+        ],
+        "settings": {
+          "dbtfy_delivery_time_position": "under-addtocart-button"
+        }
+      },
+      "dbtfy-product-tabs": {
+        "type": "dbtfy-product-tabs",
+        "settings": {
+          "dbtfy_product_tabs_display_type": "vertical",
+          "dbtfy_product_tab_heading_color": "headings",
+          "dbtfy_product_tab_text_color": "text",
+          "dbtfy_product_tab_background_color": "accent_background"
+        }
+      },
+      "dbtfy-product-swatches": {
+        "type": "dbtfy-product-swatches",
+        "settings": {
+          "dbtfy_product_swatches_show_in_grid": true
+        }
+      },
+      "dbtfy-quantity-breaks": {
+        "type": "dbtfy-quantity-breaks",
+        "blocks": {
+          "25bcebcf-7ce5-4576-b7ee-7db9fdc5b59c": {
+            "type": "product-break",
+            "settings": {
+              "title": "",
+              "product_break_show_on_product_page": true,
+              "product_break_visibility": "all",
+              "product_break_collection": "",
+              "product_break_types": "",
+              "product_break_tags": "",
+              "product_break_product": "chloro-essence-liquide-drops",
+              "product_break_range_1": 2,
+              "product_break_discount_code_1": "buy",
+              "product_break_discount_amount_1": "10",
+              "product_break_discount_type_1": "%",
+              "product_break_range_2": 3,
+              "product_break_discount_code_2": "15",
+              "product_break_discount_amount_2": "15",
+              "product_break_discount_type_2": "%",
+              "product_break_range_3": 3,
+              "product_break_discount_code_3": "",
+              "product_break_discount_amount_3": "",
+              "product_break_discount_type_3": "%",
+              "product_break_range_4": 3,
+              "product_break_discount_code_4": "",
+              "product_break_discount_amount_4": "",
+              "product_break_discount_type_4": "%",
+              "product_break_range_5": 3,
+              "product_break_discount_code_5": "",
+              "product_break_discount_amount_5": "",
+              "product_break_discount_type_5": "%"
+            }
+          },
+          "96af0a1d-87b6-4af8-a251-412a79ea1bfd": {
+            "type": "cart-break",
+            "disabled": true,
+            "settings": {
+              "title": "",
+              "cart_break_range_1": 2,
+              "cart_break_discount_code_1": "",
+              "cart_break_discount_amount_1": "10",
+              "cart_break_discount_type_1": "%",
+              "cart_break_range_2": 3,
+              "cart_break_discount_code_2": "",
+              "cart_break_discount_amount_2": "15",
+              "cart_break_discount_type_2": "%",
+              "cart_break_range_3": 2,
+              "cart_break_discount_code_3": "",
+              "cart_break_discount_amount_3": "",
+              "cart_break_discount_type_3": "%",
+              "cart_break_range_4": 2,
+              "cart_break_discount_code_4": "",
+              "cart_break_discount_amount_4": "",
+              "cart_break_discount_type_4": "%",
+              "cart_break_range_5": 2,
+              "cart_break_discount_code_5": "",
+              "cart_break_discount_amount_5": "",
+              "cart_break_discount_type_5": "%",
+              "cart_break_range_6": 2,
+              "cart_break_discount_code_6": "",
+              "cart_break_discount_amount_6": "",
+              "cart_break_discount_type_6": "%",
+              "cart_break_range_7": 2,
+              "cart_break_discount_code_7": "",
+              "cart_break_discount_amount_7": "",
+              "cart_break_discount_type_7": "%",
+              "cart_break_range_8": 2,
+              "cart_break_discount_code_8": "",
+              "cart_break_discount_amount_8": "",
+              "cart_break_discount_type_8": "%",
+              "cart_break_range_9": 2,
+              "cart_break_discount_code_9": "",
+              "cart_break_discount_amount_9": "",
+              "cart_break_discount_type_9": "%",
+              "cart_break_range_10": 2,
+              "cart_break_discount_code_10": "",
+              "cart_break_discount_amount_10": "",
+              "cart_break_discount_type_10": "%"
+            }
+          },
+          "a99c73e3-7cff-4223-87d2-e5faf4aace27": {
+            "type": "product-break",
+            "disabled": true,
+            "settings": {
+              "title": "",
+              "product_break_show_on_product_page": true,
+              "product_break_visibility": "all",
+              "product_break_collection": "",
+              "product_break_types": "",
+              "product_break_tags": "",
+              "product_break_product": "",
+              "product_break_range_1": 2,
+              "product_break_discount_code_1": "",
+              "product_break_discount_amount_1": "",
+              "product_break_discount_type_1": "%",
+              "product_break_range_2": 2,
+              "product_break_discount_code_2": "",
+              "product_break_discount_amount_2": "",
+              "product_break_discount_type_2": "%",
+              "product_break_range_3": 2,
+              "product_break_discount_code_3": "",
+              "product_break_discount_amount_3": "",
+              "product_break_discount_type_3": "%",
+              "product_break_range_4": 2,
+              "product_break_discount_code_4": "",
+              "product_break_discount_amount_4": "",
+              "product_break_discount_type_4": "%",
+              "product_break_range_5": 2,
+              "product_break_discount_code_5": "",
+              "product_break_discount_amount_5": "",
+              "product_break_discount_type_5": "%"
+            }
+          }
+        },
+        "block_order": [
+          "25bcebcf-7ce5-4576-b7ee-7db9fdc5b59c",
+          "96af0a1d-87b6-4af8-a251-412a79ea1bfd",
+          "a99c73e3-7cff-4223-87d2-e5faf4aace27"
+        ],
+        "settings": {
+          "dbtfy_quantity_breaks_single_text": "Buy _COUNT_: _PRICE_ _SAVED_AMOUNT_",
+          "dbtfy_quantity_breaks_price_type": "total_price",
+          "dbtfy_quantity_breaks_more_discount_text_before": "Add",
+          "dbtfy_quantity_breaks_more_discount_text_after": "more item to unlock",
+          "dbtfy_quantity_breaks_more_discount_text_after_percentage": "off",
+          "dbtfy_quantity_breaks_highest_discount_text": "Highest discount applied!"
+        }
+      },
+      "dbtfy-size-chart": {
+        "type": "dbtfy-size-chart",
+        "settings": {
+          "dbtfy_size_chart_icon": "straighten",
+          "dbtfy_size_chart_title": "Size chart",
+          "dbtfy_size_chart_width": "large"
+        }
+      },
+      "dbtfy-upsell-popup": {
+        "type": "dbtfy-upsell-popup",
+        "settings": {
+          "dbtfy_upsell_popup_width": "",
+          "dbtfy_upsell_popup_description": "See product details",
+          "dbtfy_upsell_popup_cart": "No thanks",
+          "dbtfy_upsell_popup_checkout": "Go to checkout →",
+          "text_alignment": "text-center",
+          "dbtfy_upsell_popup_range": 75
+        }
+      },
+      "drawer-menu": {
+        "type": "drawer-menu",
+        "settings": {
+          "drawer_link_toggle": true,
+          "email": true,
+          "phone": true,
+          "show_social_medias": true,
+          "hide_menu_icon": true,
+          "title": "Menu",
+          "drawer_top_link_list": "main-menu",
+          "drawer_bottom_link_list": "footer"
+        }
+      },
+      "announcement": {
+        "type": "announcement",
+        "blocks": {
+          "announcement-0": {
+            "type": "message",
+            "settings": {
+              "title": "",
+              "announcement_text": "<p>FREE Delivery On Orders Above 40$</p>"
+            }
+          }
+        },
+        "block_order": [
+          "announcement-0"
+        ],
+        "settings": {
+          "small_announcement_text": false,
+          "show_social": true,
+          "email": true,
+          "phone": true,
+          "left_message": "",
+          "right_message": "",
+          "announcement_autoplayspeed": 5
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "main_menu_link_list": "main-menu",
+          "navigation_type": "center",
+          "logo_link": true,
+          "default_logo_svg": "",
+          "inverted_logo_svg": "",
+          "mobile_logo_svg": "",
+          "logo_width": 200,
+          "logo_mobile_width": 62
+        }
+      },
+      "dbtfy-instagram-feed": {
+        "type": "dbtfy-instagram-feed",
+        "settings": {
+          "dbtfy_instagram_feed_icon": false,
+          "dbtfy_instagram_feed_access_token": "",
+          "dbtfy_instagram_feed_full_width": false,
+          "title": "From our Instagram",
+          "subtitle": "",
+          "dbtfy_instagram_feed_section_style": "section-border",
+          "dbtfy_instagram_feed_rows": "1",
+          "dbtfy_instagram_feed_desktop_grid": "6",
+          "dbtfy_instagram_feed_mobile_grid": "3"
+        }
+      },
+      "guarantee": {
+        "type": "guarantee",
+        "blocks": {
+          "guarantee-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "Lab Tested",
+              "text": "<p>Liquid Chlorophyll is ISO approved</p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-1": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "24/7 Support",
+              "text": "<p>Whenever you need us we will be here to help</p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "guarantee-2": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "Chemical Free",
+              "text": "<p>All Natural and Green</p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "53868ae3-4954-40b0-ba9a-e78082225c32": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "guarantee_icon": "loyalty",
+              "heading_text": "Cash on Delivery",
+              "text": "<p>We offer Cash on delivery</p>",
+              "text_alignment": "text-center",
+              "text_alignment_mobile": "text-center",
+              "button_style": "btn-outline-primary",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "guarantee-0",
+          "guarantee-1",
+          "guarantee-2",
+          "53868ae3-4954-40b0-ba9a-e78082225c32"
+        ],
+        "settings": {
+          "show_guarantee": true,
+          "guarantee_size": "xl",
+          "section_style": "section-border"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "footer-0": {
+            "type": "text",
+            "settings": {
+              "title": "",
+              "column_width": 2,
+              "svg": "",
+              "img_url": "",
+              "logo_width": 150,
+              "heading_text": "Contact us",
+              "subtitle": "",
+              "text": "<p>Experience Chloro essence: energy, self-care, quality, any questions our customer support will make sure to help you.</p>",
+              "email": false,
+              "phone": true,
+              "show_social_media": true
+            }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "settings": {
+              "title": "",
+              "column_width": 1,
+              "heading_text": "Quick Links",
+              "subtitle": "",
+              "footer_link_list": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "footer-0",
+          "footer-1"
+        ],
+        "custom_css": [],
+        "settings": {
+          "show_social_media": true,
+          "social_media_position_desktop": "right",
+          "social_title": "Follow our social media",
+          "show_payment_icons": true,
+          "custom_credential": ""
+        }
+      }
+    },
+    "content_for_index": []
+  }
+}
