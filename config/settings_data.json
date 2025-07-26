@@ -503,7 +503,7 @@
             "type": "message",
             "settings": {
               "title": "",
-              "announcement_text": "<p>FREE Delivery On Orders Above 40$</p>"
+              "announcement_text": "<p>FREE Delivery On Orders Above 30$</p>"
             }
           }
         },
@@ -511,10 +511,10 @@
           "announcement-0"
         ],
         "settings": {
-          "small_announcement_text": false,
-          "show_social": true,
-          "email": true,
-          "phone": true,
+          "small_announcement_text": true,
+          "show_social": false,
+          "email": false,
+          "phone": false,
           "left_message": "",
           "right_message": "",
           "announcement_autoplayspeed": 5
