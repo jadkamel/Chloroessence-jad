@@ -104,7 +104,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "featured_product": "the-ultimate-glow-set",
+        "featured_product": "the-ultimate-glowi-set",
         "section_style": "section-border",
         "show_product_vendor": false,
         "show_product_type": false,
@@ -337,7 +337,7 @@
         "gradient_color_1": "#008037",
         "gradient_color_2": "#f5bcc3",
         "gradient_color_3": "#f5bcc3",
-        "blur_color": "#E5E5E5",
+        "blur_color": "#e5e5e5",
         "background-color": "#ffffff",
         "padding_top": 36,
         "padding_bottom": 36

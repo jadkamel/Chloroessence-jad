@@ -1,1 +1,486 @@
-{"sections":{"main":{"type":"product-template","custom_css":[".section-description {display: none;}",".prvw_block a {display: none;}"],"settings":{"show_product_vendor":false,"show_product_type":false,"show_product_sku":false,"show_product_tags":true,"show_sharing_icons":true,"show_product_collections":false,"product_title_large":false,"product_title_position_mobile":"below","enable_image_zoom_on_icon_click":true,"image_display_type":"image_zoom","enable_fading_effect":false,"enable_video_looping":true,"media_layout":"thumbnails","image_size":"medium","enable_arrows":true,"thumbnails_position":"bottom_center","quantity_enabled":true,"product_selector":"select","show_product_description":true,"enable_split_description":true,"description_full":false,"dbtfy_product_description_position":"under_addtocart","description_style":"section-blank","text_alignment":"text-center","text_alignment_mobile":"small--text-center"}},"upsell-bundles":{"type":"dbtfy-upsell-bundles","blocks":{"bundle_KbjpM4":{"type":"bundle","settings":{"title":"","dbtfy_upsell_bundles_product_trigger_1":"","dbtfy_upsell_bundles_product_offer_1_1":"","dbtfy_upsell_bundles_product_offer_2_1":"","dbtfy_upsell_bundles_discount_code_1":"","dbtfy_upsell_bundles_discount_amount_1":"","dbtfy_upsell_bundles_discount_type_1":"%","dbtfy_upsell_bundles_product_trigger_2":"","dbtfy_upsell_bundles_product_offer_1_2":"","dbtfy_upsell_bundles_product_offer_2_2":"","dbtfy_upsell_bundles_discount_code_2":"","dbtfy_upsell_bundles_discount_amount_2":"","dbtfy_upsell_bundles_discount_type_2":"%","dbtfy_upsell_bundles_product_trigger_3":"","dbtfy_upsell_bundles_product_offer_1_3":"","dbtfy_upsell_bundles_product_offer_2_3":"","dbtfy_upsell_bundles_discount_code_3":"","dbtfy_upsell_bundles_discount_amount_3":"","dbtfy_upsell_bundles_discount_type_3":"%","dbtfy_upsell_bundles_product_trigger_4":"","dbtfy_upsell_bundles_product_offer_1_4":"","dbtfy_upsell_bundles_product_offer_2_4":"","dbtfy_upsell_bundles_discount_code_4":"","dbtfy_upsell_bundles_discount_amount_4":"","dbtfy_upsell_bundles_discount_type_4":"%","dbtfy_upsell_bundles_product_trigger_5":"","dbtfy_upsell_bundles_product_offer_1_5":"","dbtfy_upsell_bundles_product_offer_2_5":"","dbtfy_upsell_bundles_discount_code_5":"","dbtfy_upsell_bundles_discount_amount_5":"","dbtfy_upsell_bundles_discount_type_5":"%","dbtfy_upsell_bundles_product_trigger_6":"","dbtfy_upsell_bundles_product_offer_1_6":"","dbtfy_upsell_bundles_product_offer_2_6":"","dbtfy_upsell_bundles_discount_code_6":"","dbtfy_upsell_bundles_discount_amount_6":"","dbtfy_upsell_bundles_discount_type_6":"%","dbtfy_upsell_bundles_product_trigger_7":"","dbtfy_upsell_bundles_product_offer_1_7":"","dbtfy_upsell_bundles_product_offer_2_7":"","dbtfy_upsell_bundles_discount_code_7":"","dbtfy_upsell_bundles_discount_amount_7":"","dbtfy_upsell_bundles_discount_type_7":"%","dbtfy_upsell_bundles_product_trigger_8":"","dbtfy_upsell_bundles_product_offer_1_8":"","dbtfy_upsell_bundles_product_offer_2_8":"","dbtfy_upsell_bundles_discount_code_8":"","dbtfy_upsell_bundles_discount_amount_8":"","dbtfy_upsell_bundles_discount_type_8":"%","dbtfy_upsell_bundles_product_trigger_9":"","dbtfy_upsell_bundles_product_offer_1_9":"","dbtfy_upsell_bundles_product_offer_2_9":"","dbtfy_upsell_bundles_discount_code_9":"","dbtfy_upsell_bundles_discount_amount_9":"","dbtfy_upsell_bundles_discount_type_9":"%","dbtfy_upsell_bundles_product_trigger_10":"","dbtfy_upsell_bundles_product_offer_1_10":"","dbtfy_upsell_bundles_product_offer_2_10":"","dbtfy_upsell_bundles_discount_code_10":"","dbtfy_upsell_bundles_discount_amount_10":"","dbtfy_upsell_bundles_discount_type_10":"%"}}},"block_order":["bundle_KbjpM4"],"disabled":true,"settings":{"dbtfy_upsell_bundles_title":"Frequently bought together","dbtfy_upsell_bundles_subtitle":"","dbtfy_upsell_bundles_total":"Total price:","dbtfy_upsell_bundles_cart":"Add selected items","dbtfy_upsell_bundles_icons":"library_add_check","dbtfy_upsell_bundles_current":"This item:","section_style":"section-border","dbtfy_upsell_bundles_reviews":true,"show_automatic_bundles":true,"dbtfy_upsell_bundles_limit":"1","dbtfy_upsell_bundles_position":"button","dbtfy_upsell_bundles_discount_code":"","dbtfy_upsell_bundles_discount_amount":"","dbtfy_upsell_bundles_discount_type":"%"}},"scrolling_mHMBqY":{"type":"scrolling","settings":{"text":"FDA & ISO Approved","icon":"shopify:\/\/shop_images\/baseline_verified_white_24dp.png","icon_width":24,"link":"","direction":"left","inside_padding":0,"text_font":"open_sans_n7","text_size":20,"text_size_mobile":20,"scrolling_speed":25,"scrolling_speed_mobile":30,"text_spacing":true,"pause_hover":false,"text_color":"#ffffff","text_gradient":"","background_color":"#008037","background_gradient":""}},"featured_row_ca9xDR":{"type":"featured-row","settings":{"show_on_desktop":true,"show_on_mobile":true,"image":"shopify:\/\/shop_images\/Liquid_Gif-ezgif.com-optimize.gif","image_link":"","section_style":"section-blank","text_size":"large","image_alignement":"left","text_alignment":"text-center","title":"Easy To Prepare","text":"<p>Just add <strong>15 drops a day<\/strong> and your good to go. Easier than making Coffee or any drink.<\/p>","button_style":"btn--primary","button_label":"SHOP NOW","button_link":""}},"scrolling_yqAG36":{"type":"scrolling","settings":{"text":"Free delivery on orders above 40$","icon":"shopify:\/\/shop_images\/baseline_local_shipping_white_24dp.png","icon_width":24,"link":"","direction":"left","inside_padding":0,"text_font":"open_sans_n7","text_size":20,"text_size_mobile":20,"scrolling_speed":25,"scrolling_speed_mobile":30,"text_spacing":true,"pause_hover":false,"text_color":"#ffffff","text_gradient":"","background_color":"#008037","background_gradient":""}},"counting_inf_dN3kxi":{"type":"counting-inf","blocks":{"text_XpjGfc":{"type":"text","settings":{"heading":"84% OF PEOPLE","heading_custom":false,"heading_font":"assistant_n4","heading_size":120,"heading_size_mobile":60,"heading_height":100,"heading_align":"center","heading_style":"fill","heading_outline_thickness":1,"number_animation":true,"number_duration":1,"sub_heading":"having youthful skin because of ChloroEssence","sub_heading_custom":false,"sub_heading_font":"assistant_n4","sub_heading_size":26,"sub_heading_size_mobile":20,"sub_heading_height":100,"sub_heading_align":"center","sub_heading_mt":16,"content":"","content_custom":false,"content_font":"assistant_n4","content_size":18,"content_size_mobile":16,"content_height":100,"content_align":"center","content_mt":16,"link":"","link_url":"","link_custom":false,"link_font":"assistant_n4","link_size":18,"link_size_mobile":16,"link_height":100,"link_align":"center","link_style":"button","link_thickness":1,"link_padding_horizontal":16,"link_padding_vertical":12,"link_radius":28,"link_mt":16,"heading_color":"#000000","heading_gradient_color":"linear-gradient(180deg, rgba(0, 128, 55, 1) 33%, rgba(26, 26, 26, 0) 100%)","sub_heading_color":"#000000","content_color":"#000000","link_color":"#000000","link_hover_color":"#cfcdcd","link_bg_color":"","link_bg_hover_color":"","link_border_color":"#000000","link_border_hover_color":"#cfcdcd"}}},"block_order":["text_XpjGfc"],"settings":{"stack_mobile":false,"divider":"circle","items_gap":50,"items_gap_mobile":50,"full_width":false,"content_width":120,"border_thickness":0,"background_color":"#ffffff","background_gradient":"","border_color":"#000000","divider_color":"#000000","margin_top":0,"margin_bottom":0,"padding_top":36,"padding_bottom":36,"padding_horizontal":5,"padding_horizontal_mobile":1.5}},"featured_row_DBjUJN":{"type":"featured-row","settings":{"show_on_desktop":true,"show_on_mobile":true,"image":"shopify:\/\/shop_images\/5-min.png","image_link":"","section_style":"section-blank","text_size":"large","image_alignement":"right","text_alignment":"text-center","title":"Beauty is all about ChloroEssence","text":"<p>Chloro essence is <strong>packed with antioxidants that fight off harmful free radicals<\/strong>, keeping skin looking <strong>youthful and clearer<\/strong>, it's natural and chemical free help calm irritated skin and reduce redness.<\/p>","button_style":"btn--primary","button_label":"Get it now","button_link":""}},"pricing-table":{"type":"dbtfy-pricing-table","disabled":true,"settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"Pricing table","subtitle":"","section_style":"section-blank","dbtfy_button_position":"middle"}},"product-recommendations":{"type":"product-recommendations","disabled":true,"settings":{"show_product_recommendations":true,"title":"Recommended for you","subtitle":"","section_style":"section-border","rows":"2","desktop_grid":"4","mobile_grid":"2","slider_related_products":true,"arrows":true,"dots":true,"autoplay":false,"autoplayspeed":5}},"review-widget":{"type":"product-review-widget","disabled":true,"settings":{}},"related-products":{"type":"related-products","disabled":true,"settings":{"show_related_products":false,"related_collection":true,"same_vendor":false,"same_type":false,"never_empty":true,"title":"You may also like","subtitle":"","section_style":"section-border","rows":"1","desktop_grid":"4","mobile_grid":"2","slider_related_products":true,"arrows":true,"dots":true,"autoplay":false,"autoplayspeed":5}},"back-to-collection":{"type":"product-back-to-collection","settings":{}},"faq-section":{"type":"dbtfy-faq-section","blocks":{"3239a6b0-1107-4f68-aa1d-936b863bbb1e":{"type":"text_block","settings":{"title":"","dbtfy_faq_page_open_1":false,"dbtfy_faq_page_icon_1":"","question_1":"What is Chlorophyll?","text_1":"<p>Chlorophyll is a green plant pigment responsible for photosynthesis.<\/p>","dbtfy_faq_page_open_2":false,"dbtfy_faq_page_icon_2":"","question_2":"What are the benefits of Chlorophyll?","text_2":"<p>Chlorophyll offers numerous benefits, including detoxification, antioxidant properties, and potential support for wound healing.<\/p>","dbtfy_faq_page_open_3":false,"dbtfy_faq_page_icon_3":"","question_3":"Does Chlorophyll improve skin health?","text_3":"<p>Chlorophyll can support healthy skin by its antioxidant properties and potential ability to reduce inflammation.<\/p>","dbtfy_faq_page_open_4":false,"dbtfy_faq_page_icon_4":"","question_4":"Does Chlorophyll have any side effects?","text_4":"<p>While rare, some individuals may experience minimal side effects such as mild digestive upset or allergic reactions.<\/p>","dbtfy_faq_page_open_5":false,"dbtfy_faq_page_icon_5":"","question_5":"What is the recommended dosage for Chlorophyll?","text_5":"<p>15 Drops a day in a cup of water is the optimal dosage.<\/p>","dbtfy_faq_page_open_6":false,"dbtfy_faq_page_icon_6":"","question_6":"","text_6":"","dbtfy_faq_page_open_7":false,"dbtfy_faq_page_icon_7":"","question_7":"","text_7":"","dbtfy_faq_page_open_8":false,"dbtfy_faq_page_icon_8":"","question_8":"","text_8":"","dbtfy_faq_page_open_9":false,"dbtfy_faq_page_icon_9":"","question_9":"","text_9":"","dbtfy_faq_page_open_10":false,"dbtfy_faq_page_icon_10":"","question_10":"","text_10":""}}},"block_order":["3239a6b0-1107-4f68-aa1d-936b863bbb1e"],"settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"FAQ","subtitle":"","section_style":"section-border","dbtfy_faq_searchbox":false,"dbtfy_faq_search_placeholder":"Search questions...","text_alignment":"text-center","text_alignment_mobile":"text-center","dbtfy_faq_bannerbox":false,"dbtfy_faq_banner_icon":"live_help","dbtfy_faq_banner_text":"Didn't find your answer?","dbtfy_faq_banner_subtitle":"Our customer service will be happy to help you.","dbtfy_faq_btn":"Get in Touch","dbtfy_faq_link":""}},"quotes":{"type":"quotes","blocks":{"15a17abd-4bba-4624-9c9b-fd1c8653a7d9":{"type":"quote","settings":{"title":"","icon":"format_quote","quote":"<p>Chloroessence is simply amazing! It boosts my energy, aids digestion, and leaves me feeling refreshed and revitalized. Highly recommended!<\/p>","author":"Catherine Aoun","text_alignment":"text-center","text_alignment_mobile":"text-center"}},"8b447fc1-c21a-4455-9b69-735a2d26de97":{"type":"quote","settings":{"title":"","icon":"format_quote","quote":"<p>This chlorophyll product is a game-changer! It not only promotes a healthy complexion but also helps detoxify my body, leaving me feeling rejuvenated inside and out. Love it!<\/p>","author":"Maria Aramouni","text_alignment":"text-center","text_alignment_mobile":"text-center"}},"5f90c376-1fc7-4959-9ffb-d8f2a49f90ec":{"type":"quote","settings":{"title":"","icon":"format_quote","quote":"<p>I'm absolutely hooked on this chlorophyll product! It's like a natural energy shot that keeps me feeling refreshed and revitalized all day long. Highly recommend!<\/p>","author":"Georges Haddad","text_alignment":"text-center","text_alignment_mobile":"text-center"}}},"block_order":["15a17abd-4bba-4624-9c9b-fd1c8653a7d9","8b447fc1-c21a-4455-9b69-735a2d26de97","5f90c376-1fc7-4959-9ffb-d8f2a49f90ec"],"settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"Your Words","subtitle":"","section_style":"section-blank","quote_width":"60","arrows":true,"dots":true,"autoplay":true,"autoplayspeed":5}},"bcb9b936-b661-4f3f-b254-a16700095e20":{"type":"featured-content","disabled":true,"settings":{"show_on_desktop":true,"show_on_mobile":true,"title":"Featured content","text":"<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>","section_style":"section-blank","text_size":"large","text_alignment":"text-center","button_style":"btn--primary","button_label":"","button_link":""}},"17141685668bc0bb81":{"type":"apps","blocks":{"fera_product_reviews_xigJAd":{"type":"shopify:\/\/apps\/fera\/blocks\/product_reviews\/2fbfcfa7-8a04-479f-89a8-0621fa099c51","settings":{"heading":"Product Reviews","layout":"masonry","star_color":"#000000","when_no_reviews":"show_from_related"}}},"block_order":["fera_product_reviews_xigJAd"],"settings":{}}},"order":["main","upsell-bundles","scrolling_mHMBqY","featured_row_ca9xDR","scrolling_yqAG36","counting_inf_dN3kxi","featured_row_DBjUJN","pricing-table","product-recommendations","review-widget","related-products","back-to-collection","faq-section","quotes","bcb9b936-b661-4f3f-b254-a16700095e20","17141685668bc0bb81"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "product-template",
+      "custom_css": [
+        ".section-description {display: none;}",
+        ".prvw_block a {display: none;}"
+      ],
+      "settings": {
+        "show_product_vendor": false,
+        "show_product_type": false,
+        "show_product_sku": false,
+        "show_product_tags": true,
+        "show_sharing_icons": true,
+        "show_product_collections": false,
+        "product_title_large": false,
+        "product_title_position_mobile": "below",
+        "enable_image_zoom_on_icon_click": true,
+        "image_display_type": "image_zoom",
+        "enable_fading_effect": false,
+        "enable_video_looping": true,
+        "media_layout": "thumbnails",
+        "image_size": "medium",
+        "enable_arrows": true,
+        "thumbnails_position": "bottom_center",
+        "quantity_enabled": true,
+        "product_selector": "select",
+        "show_product_description": true,
+        "enable_split_description": true,
+        "description_full": false,
+        "dbtfy_product_description_position": "under_addtocart",
+        "description_style": "section-blank",
+        "text_alignment": "text-center",
+        "text_alignment_mobile": "small--text-center"
+      }
+    },
+    "upsell-bundles": {
+      "type": "dbtfy-upsell-bundles",
+      "blocks": {
+        "bundle_KbjpM4": {
+          "type": "bundle",
+          "settings": {
+            "title": "",
+            "dbtfy_upsell_bundles_product_trigger_1": "",
+            "dbtfy_upsell_bundles_product_offer_1_1": "",
+            "dbtfy_upsell_bundles_product_offer_2_1": "",
+            "dbtfy_upsell_bundles_discount_code_1": "",
+            "dbtfy_upsell_bundles_discount_amount_1": "",
+            "dbtfy_upsell_bundles_discount_type_1": "%",
+            "dbtfy_upsell_bundles_product_trigger_2": "",
+            "dbtfy_upsell_bundles_product_offer_1_2": "",
+            "dbtfy_upsell_bundles_product_offer_2_2": "",
+            "dbtfy_upsell_bundles_discount_code_2": "",
+            "dbtfy_upsell_bundles_discount_amount_2": "",
+            "dbtfy_upsell_bundles_discount_type_2": "%",
+            "dbtfy_upsell_bundles_product_trigger_3": "",
+            "dbtfy_upsell_bundles_product_offer_1_3": "",
+            "dbtfy_upsell_bundles_product_offer_2_3": "",
+            "dbtfy_upsell_bundles_discount_code_3": "",
+            "dbtfy_upsell_bundles_discount_amount_3": "",
+            "dbtfy_upsell_bundles_discount_type_3": "%",
+            "dbtfy_upsell_bundles_product_trigger_4": "",
+            "dbtfy_upsell_bundles_product_offer_1_4": "",
+            "dbtfy_upsell_bundles_product_offer_2_4": "",
+            "dbtfy_upsell_bundles_discount_code_4": "",
+            "dbtfy_upsell_bundles_discount_amount_4": "",
+            "dbtfy_upsell_bundles_discount_type_4": "%",
+            "dbtfy_upsell_bundles_product_trigger_5": "",
+            "dbtfy_upsell_bundles_product_offer_1_5": "",
+            "dbtfy_upsell_bundles_product_offer_2_5": "",
+            "dbtfy_upsell_bundles_discount_code_5": "",
+            "dbtfy_upsell_bundles_discount_amount_5": "",
+            "dbtfy_upsell_bundles_discount_type_5": "%",
+            "dbtfy_upsell_bundles_product_trigger_6": "",
+            "dbtfy_upsell_bundles_product_offer_1_6": "",
+            "dbtfy_upsell_bundles_product_offer_2_6": "",
+            "dbtfy_upsell_bundles_discount_code_6": "",
+            "dbtfy_upsell_bundles_discount_amount_6": "",
+            "dbtfy_upsell_bundles_discount_type_6": "%",
+            "dbtfy_upsell_bundles_product_trigger_7": "",
+            "dbtfy_upsell_bundles_product_offer_1_7": "",
+            "dbtfy_upsell_bundles_product_offer_2_7": "",
+            "dbtfy_upsell_bundles_discount_code_7": "",
+            "dbtfy_upsell_bundles_discount_amount_7": "",
+            "dbtfy_upsell_bundles_discount_type_7": "%",
+            "dbtfy_upsell_bundles_product_trigger_8": "",
+            "dbtfy_upsell_bundles_product_offer_1_8": "",
+            "dbtfy_upsell_bundles_product_offer_2_8": "",
+            "dbtfy_upsell_bundles_discount_code_8": "",
+            "dbtfy_upsell_bundles_discount_amount_8": "",
+            "dbtfy_upsell_bundles_discount_type_8": "%",
+            "dbtfy_upsell_bundles_product_trigger_9": "",
+            "dbtfy_upsell_bundles_product_offer_1_9": "",
+            "dbtfy_upsell_bundles_product_offer_2_9": "",
+            "dbtfy_upsell_bundles_discount_code_9": "",
+            "dbtfy_upsell_bundles_discount_amount_9": "",
+            "dbtfy_upsell_bundles_discount_type_9": "%",
+            "dbtfy_upsell_bundles_product_trigger_10": "",
+            "dbtfy_upsell_bundles_product_offer_1_10": "",
+            "dbtfy_upsell_bundles_product_offer_2_10": "",
+            "dbtfy_upsell_bundles_discount_code_10": "",
+            "dbtfy_upsell_bundles_discount_amount_10": "",
+            "dbtfy_upsell_bundles_discount_type_10": "%"
+          }
+        }
+      },
+      "block_order": [
+        "bundle_KbjpM4"
+      ],
+      "disabled": true,
+      "settings": {
+        "dbtfy_upsell_bundles_title": "Frequently bought together",
+        "dbtfy_upsell_bundles_subtitle": "",
+        "dbtfy_upsell_bundles_total": "Total price:",
+        "dbtfy_upsell_bundles_cart": "Add selected items",
+        "dbtfy_upsell_bundles_icons": "library_add_check",
+        "dbtfy_upsell_bundles_current": "This item:",
+        "section_style": "section-border",
+        "dbtfy_upsell_bundles_reviews": true,
+        "show_automatic_bundles": true,
+        "dbtfy_upsell_bundles_limit": "1",
+        "dbtfy_upsell_bundles_position": "button",
+        "dbtfy_upsell_bundles_discount_code": "",
+        "dbtfy_upsell_bundles_discount_amount": "",
+        "dbtfy_upsell_bundles_discount_type": "%"
+      }
+    },
+    "scrolling_mHMBqY": {
+      "type": "scrolling",
+      "settings": {
+        "text": "FDA & ISO Approved",
+        "icon_width": 24,
+        "link": "",
+        "direction": "left",
+        "inside_padding": 0,
+        "text_font": "open_sans_n7",
+        "text_size": 20,
+        "text_size_mobile": 20,
+        "scrolling_speed": 25,
+        "scrolling_speed_mobile": 30,
+        "text_spacing": true,
+        "pause_hover": false,
+        "text_color": "#ffffff",
+        "text_gradient": "",
+        "background_color": "#008037",
+        "background_gradient": ""
+      }
+    },
+    "scrolling_yqAG36": {
+      "type": "scrolling",
+      "settings": {
+        "text": "Free delivery on orders above 30$",
+        "icon_width": 24,
+        "link": "",
+        "direction": "left",
+        "inside_padding": 0,
+        "text_font": "open_sans_n7",
+        "text_size": 20,
+        "text_size_mobile": 20,
+        "scrolling_speed": 25,
+        "scrolling_speed_mobile": 30,
+        "text_spacing": true,
+        "pause_hover": false,
+        "text_color": "#ffffff",
+        "text_gradient": "",
+        "background_color": "#008037",
+        "background_gradient": ""
+      }
+    },
+    "counting_inf_dN3kxi": {
+      "type": "counting-inf",
+      "blocks": {
+        "text_XpjGfc": {
+          "type": "text",
+          "settings": {
+            "heading": "84% OF PEOPLE",
+            "heading_custom": false,
+            "heading_font": "assistant_n4",
+            "heading_size": 120,
+            "heading_size_mobile": 60,
+            "heading_height": 100,
+            "heading_align": "center",
+            "heading_style": "fill",
+            "heading_outline_thickness": 1,
+            "number_animation": true,
+            "number_duration": 1,
+            "sub_heading": "having youthful skin because of Glowi",
+            "sub_heading_custom": false,
+            "sub_heading_font": "assistant_n4",
+            "sub_heading_size": 26,
+            "sub_heading_size_mobile": 20,
+            "sub_heading_height": 100,
+            "sub_heading_align": "center",
+            "sub_heading_mt": 16,
+            "content": "",
+            "content_custom": false,
+            "content_font": "assistant_n4",
+            "content_size": 18,
+            "content_size_mobile": 16,
+            "content_height": 100,
+            "content_align": "center",
+            "content_mt": 16,
+            "link": "",
+            "link_url": "",
+            "link_custom": false,
+            "link_font": "assistant_n4",
+            "link_size": 18,
+            "link_size_mobile": 16,
+            "link_height": 100,
+            "link_align": "center",
+            "link_style": "button",
+            "link_thickness": 1,
+            "link_padding_horizontal": 16,
+            "link_padding_vertical": 12,
+            "link_radius": 28,
+            "link_mt": 16,
+            "heading_color": "#000000",
+            "heading_gradient_color": "linear-gradient(180deg, rgba(0, 128, 55, 1) 33%, rgba(26, 26, 26, 0) 100%)",
+            "sub_heading_color": "#000000",
+            "content_color": "#000000",
+            "link_color": "#000000",
+            "link_hover_color": "#cfcdcd",
+            "link_bg_color": "",
+            "link_bg_hover_color": "",
+            "link_border_color": "#000000",
+            "link_border_hover_color": "#cfcdcd"
+          }
+        }
+      },
+      "block_order": [
+        "text_XpjGfc"
+      ],
+      "settings": {
+        "stack_mobile": false,
+        "divider": "circle",
+        "items_gap": 50,
+        "items_gap_mobile": 50,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "divider_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5
+      }
+    },
+    "pricing-table": {
+      "type": "dbtfy-pricing-table",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Pricing table",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "dbtfy_button_position": "middle"
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_product_recommendations": true,
+        "title": "Recommended for you",
+        "subtitle": "",
+        "section_style": "section-border",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "review-widget": {
+      "type": "product-review-widget",
+      "disabled": true,
+      "settings": {}
+    },
+    "related-products": {
+      "type": "related-products",
+      "disabled": true,
+      "settings": {
+        "show_related_products": false,
+        "related_collection": true,
+        "same_vendor": false,
+        "same_type": false,
+        "never_empty": true,
+        "title": "You may also like",
+        "subtitle": "",
+        "section_style": "section-border",
+        "rows": "1",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "back-to-collection": {
+      "type": "product-back-to-collection",
+      "settings": {}
+    },
+    "faq-section": {
+      "type": "dbtfy-faq-section",
+      "blocks": {
+        "3239a6b0-1107-4f68-aa1d-936b863bbb1e": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "dbtfy_faq_page_open_1": false,
+            "dbtfy_faq_page_icon_1": "",
+            "question_1": "What is Chlorophyll?",
+            "text_1": "<p>Chlorophyll is a green plant pigment responsible for photosynthesis.</p>",
+            "dbtfy_faq_page_open_2": false,
+            "dbtfy_faq_page_icon_2": "",
+            "question_2": "What are the benefits of Chlorophyll?",
+            "text_2": "<p>Chlorophyll offers numerous benefits, including detoxification, antioxidant properties, and potential support for wound healing.</p>",
+            "dbtfy_faq_page_open_3": false,
+            "dbtfy_faq_page_icon_3": "",
+            "question_3": "Does Chlorophyll improve skin health?",
+            "text_3": "<p>Chlorophyll can support healthy skin by its antioxidant properties and potential ability to reduce inflammation.</p>",
+            "dbtfy_faq_page_open_4": false,
+            "dbtfy_faq_page_icon_4": "",
+            "question_4": "Does Chlorophyll have any side effects?",
+            "text_4": "<p>While rare, some individuals may experience minimal side effects such as mild digestive upset or allergic reactions.</p>",
+            "dbtfy_faq_page_open_5": false,
+            "dbtfy_faq_page_icon_5": "",
+            "question_5": "What is the recommended dosage for Chlorophyll?",
+            "text_5": "<p>15 Drops a day in a cup of water is the optimal dosage.</p>",
+            "dbtfy_faq_page_open_6": false,
+            "dbtfy_faq_page_icon_6": "",
+            "question_6": "",
+            "text_6": "",
+            "dbtfy_faq_page_open_7": false,
+            "dbtfy_faq_page_icon_7": "",
+            "question_7": "",
+            "text_7": "",
+            "dbtfy_faq_page_open_8": false,
+            "dbtfy_faq_page_icon_8": "",
+            "question_8": "",
+            "text_8": "",
+            "dbtfy_faq_page_open_9": false,
+            "dbtfy_faq_page_icon_9": "",
+            "question_9": "",
+            "text_9": "",
+            "dbtfy_faq_page_open_10": false,
+            "dbtfy_faq_page_icon_10": "",
+            "question_10": "",
+            "text_10": ""
+          }
+        }
+      },
+      "block_order": [
+        "3239a6b0-1107-4f68-aa1d-936b863bbb1e"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "FAQ",
+        "subtitle": "",
+        "section_style": "section-border",
+        "dbtfy_faq_searchbox": false,
+        "dbtfy_faq_search_placeholder": "Search questions...",
+        "text_alignment": "text-center",
+        "text_alignment_mobile": "text-center",
+        "dbtfy_faq_bannerbox": false,
+        "dbtfy_faq_banner_icon": "live_help",
+        "dbtfy_faq_banner_text": "Didn't find your answer?",
+        "dbtfy_faq_banner_subtitle": "Our customer service will be happy to help you.",
+        "dbtfy_faq_btn": "Get in Touch",
+        "dbtfy_faq_link": ""
+      }
+    },
+    "quotes": {
+      "type": "quotes",
+      "blocks": {
+        "15a17abd-4bba-4624-9c9b-fd1c8653a7d9": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "icon": "format_quote",
+            "quote": "<p>Chloroessence is simply amazing! It boosts my energy, aids digestion, and leaves me feeling refreshed and revitalized. Highly recommended!</p>",
+            "author": "Catherine Aoun",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "8b447fc1-c21a-4455-9b69-735a2d26de97": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "icon": "format_quote",
+            "quote": "<p>This chlorophyll product is a game-changer! It not only promotes a healthy complexion but also helps detoxify my body, leaving me feeling rejuvenated inside and out. Love it!</p>",
+            "author": "Maria Aramouni",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "5f90c376-1fc7-4959-9ffb-d8f2a49f90ec": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "icon": "format_quote",
+            "quote": "<p>I'm absolutely hooked on this chlorophyll product! It's like a natural energy shot that keeps me feeling refreshed and revitalized all day long. Highly recommend!</p>",
+            "author": "Georges Haddad",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "15a17abd-4bba-4624-9c9b-fd1c8653a7d9",
+        "8b447fc1-c21a-4455-9b69-735a2d26de97",
+        "5f90c376-1fc7-4959-9ffb-d8f2a49f90ec"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Your Words",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "quote_width": "60",
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "bcb9b936-b661-4f3f-b254-a16700095e20": {
+      "type": "featured-content",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Featured content",
+        "text": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+        "section_style": "section-blank",
+        "text_size": "large",
+        "text_alignment": "text-center",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "17141685668bc0bb81": {
+      "type": "apps",
+      "settings": {}
+    }
+  },
+  "order": [
+    "main",
+    "upsell-bundles",
+    "scrolling_mHMBqY",
+    "scrolling_yqAG36",
+    "counting_inf_dN3kxi",
+    "pricing-table",
+    "product-recommendations",
+    "review-widget",
+    "related-products",
+    "back-to-collection",
+    "faq-section",
+    "quotes",
+    "bcb9b936-b661-4f3f-b254-a16700095e20",
+    "17141685668bc0bb81"
+  ]
+}

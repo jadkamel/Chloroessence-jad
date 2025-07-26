@@ -487,7 +487,7 @@
         "type": "drawer-menu",
         "settings": {
           "drawer_link_toggle": true,
-          "email": true,
+          "email": false,
           "phone": true,
           "show_social_medias": true,
           "hide_menu_icon": true,
@@ -637,21 +637,10 @@
               "phone": true,
               "show_social_media": true
             }
-          },
-          "footer-1": {
-            "type": "link_list",
-            "settings": {
-              "title": "",
-              "column_width": 1,
-              "heading_text": "Quick Links",
-              "subtitle": "",
-              "footer_link_list": "footer"
-            }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1"
+          "footer-0"
         ],
         "custom_css": [],
         "settings": {
@@ -660,6 +649,15 @@
           "social_title": "Follow our social media",
           "show_payment_icons": true,
           "custom_credential": ""
+        }
+      },
+      "dbtfy-collection-filters": {
+        "type": "dbtfy-collection-filters",
+        "settings": {
+          "clear_label": "Clear",
+          "clear_all_label": "Clear All",
+          "hide_unavailable_options": false,
+          "visibility_tags_count": "none"
         }
       }
     },
