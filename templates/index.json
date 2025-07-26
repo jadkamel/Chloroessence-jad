@@ -60,7 +60,7 @@
     "featured_content_g6Beaf": {
       "type": "featured-content",
       "custom_css": [
-        "@media screen and (max-width: 800px) {h2 {padding-right: 10px; padding-left: 10px; box-shadow: inset 0 -12px rgba(0, 128, 55, 1); line-height: 27px; color: white; }}",
+        "@media screen and (max-width: 800px) {h2 {padding-right: 10px; padding-left: 10px; box-shadow: inset 0 -12px rgba(1); line-height: 27px; color: white; }}",
         ".row {--bs-gutter-x: 0rem;}",
         ".section-blank {background: #b7ce90;}"
       ],
@@ -93,9 +93,9 @@
         "scrolling_speed_mobile": 30,
         "text_spacing": true,
         "pause_hover": false,
-        "text_color": "#ffffff",
+        "text_color": "#008037",
         "text_gradient": "",
-        "background_color": "#008037",
+        "background_color": "#bad99e",
         "background_gradient": ""
       }
     },
@@ -104,7 +104,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "featured_product": "chloro-essence-liquide-drops",
+        "featured_product": "the-ultimate-glow-set",
         "section_style": "section-border",
         "show_product_vendor": false,
         "show_product_type": false,
@@ -159,6 +159,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
+        "image": "shopify://shop_images/acne-image-626x675.webp",
         "image_link": "",
         "section_style": "section-blank",
         "text_size": "large",
