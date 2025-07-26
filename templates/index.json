@@ -159,7 +159,7 @@
       "settings": {
         "show_on_desktop": true,
         "show_on_mobile": true,
-        "image": "shopify://shop_images/acne-image-626x675.webp",
+        "image": "shopify://shop_images/download_1.jpg",
         "image_link": "",
         "section_style": "section-blank",
         "text_size": "large",
@@ -172,23 +172,6 @@
         "button_link": "shopify://products/chloro-essence-liquide-drops"
       }
     },
-    "e4806514-835a-436e-b187-531cdcba2701": {
-      "type": "featured-row",
-      "settings": {
-        "show_on_desktop": true,
-        "show_on_mobile": true,
-        "image_link": "",
-        "section_style": "section-blank",
-        "text_size": "large",
-        "image_alignement": "right",
-        "text_alignment": "text-center",
-        "title": "Words from experts",
-        "text": "",
-        "button_style": "btn--primary",
-        "button_label": "The Science",
-        "button_link": ""
-      }
-    },
     "gallery_FG4bg4": {
       "type": "gallery",
       "blocks": {
@@ -196,6 +179,7 @@
           "type": "image",
           "settings": {
             "title": "",
+            "image": "shopify://shop_images/Skin_Gym_Cryoroll_Ice_Roller_Face_Body_in_Pink_at_Nordstrom.jpg",
             "alignment": "center center",
             "link": "",
             "cta_label": "Do something today, that your future self will thank you for."
@@ -205,18 +189,20 @@
           "type": "image",
           "settings": {
             "title": "",
+            "image": "shopify://shop_images/Frosty_Facials__Skincare_Routine_with_Skin_Gym_Cryoroll_Ice_Facial_Rollers.jpg",
             "alignment": "center center",
             "link": "",
-            "cta_label": "Have Your Practiced Self-Care Today"
+            "cta_label": "Let Your Skin Breathe."
           }
         },
         "image_7cFigk": {
           "type": "image",
           "settings": {
             "title": "",
+            "image": "shopify://shop_images/Ice_Roller_For_Face_And_Eye_Facial_Beauty_Ice_Roller_Skin_Care_Tools_Ice_Facial_Cube_Eye_Roller_Face_Massager_Silicone_Ice_Mold_For_Face_Beauty_Care.jpg",
             "alignment": "center center",
             "link": "",
-            "cta_label": "Beauty is all about ChloroEssence"
+            "cta_label": "Beauty is all about Glowi"
           }
         }
       },
@@ -248,28 +234,28 @@
         "image_7RWwPE": {
           "type": "Image",
           "settings": {
-            "review_text": "Great taste, easy to add my morning smoothies",
+            "review_text": "Easy to add my morning Routines",
             "review_rating": 5
           }
         },
         "image_xHDeP7": {
           "type": "Image",
           "settings": {
-            "review_text": "I'm absolutely hooked, I feel more energized with these chlorophyll drops",
+            "review_text": "It instantly de-puffs my face every morning. Total game changer!",
             "review_rating": 5
           }
         },
         "image_4qq39N": {
           "type": "Image",
           "settings": {
-            "review_text": "Refreshing addition to my hydration routine!!!",
+            "review_text": "Feels so refreshing after a long day. My skin looks tighter and calmer.",
             "review_rating": 5
           }
         },
         "image_8tzEUg": {
           "type": "Image",
           "settings": {
-            "review_text": "Natural energy boost with chloro essence, i definitely recommend",
+            "review_text": "I used it after applying my serum — my skin absorbed everything so well!",
             "review_rating": 5
           }
         },
@@ -283,7 +269,7 @@
         "image_hrRXFR": {
           "type": "Image",
           "settings": {
-            "review_text": "I've seen a big improvement in my digestive system since using the chlorophyll",
+            "review_text": "I swear this replaced my jade roller. Cold therapy is a must!",
             "review_rating": 5
           }
         },
@@ -297,7 +283,7 @@
         "image_bNDpUb": {
           "type": "Image",
           "settings": {
-            "review_text": "Sleeping better and feeling more energized.",
+            "review_text": "Redness gone in minutes. I keep mine in the freezer 24/7!",
             "review_rating": 5
           }
         },
@@ -342,16 +328,16 @@
         "loop_amount": 2,
         "header_before_gradient": "Customers",
         "header_gradient": "obsessed with",
-        "header": "ChloroEssence",
+        "header": "Glowi",
         "header_color": "#0b1128",
         "header_font_size": 28,
         "header_mob_font_size": 28,
         "review_font_size": 16,
         "review_font_color": "#0b1128",
         "gradient_color_1": "#008037",
-        "gradient_color_2": "#8cc63e",
-        "gradient_color_3": "#34d779",
-        "blur_color": "#34d779",
+        "gradient_color_2": "#f5bcc3",
+        "gradient_color_3": "#f5bcc3",
+        "blur_color": "#E5E5E5",
         "background-color": "#ffffff",
         "padding_top": 36,
         "padding_bottom": 36
@@ -445,7 +431,6 @@
     "e23f5324-eded-44ef-a6fc-e2868655efb1",
     "scrolling_xjUJEE",
     "485f467c-e3ff-4d90-8c24-e55e56f66099",
-    "e4806514-835a-436e-b187-531cdcba2701",
     "gallery_FG4bg4",
     "sc_testemo_bnJc9r",
     "c4c94688-4e87-4202-a2c2-883e44b9387e"
