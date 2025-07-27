@@ -84,6 +84,7 @@
     "dbtfy_cookie_box": false,
     "dbtfy_shop_protect": false,
     "dbtfy_addtocart_animation_interval": 5,
+    "dbtfy_gift_wrap_product": "",
     "dbtfy_sticky_addtocart_reviews": false,
     "dbtfy_sticky_addtocart_animation": true,
     "dbtfy_sticky_addtocart_mobile": true,
@@ -488,7 +489,7 @@
         "settings": {
           "drawer_link_toggle": true,
           "email": false,
-          "phone": true,
+          "phone": false,
           "show_social_medias": true,
           "hide_menu_icon": true,
           "title": "Menu",
@@ -564,20 +565,6 @@
               "button_link": ""
             }
           },
-          "guarantee-1": {
-            "type": "text",
-            "settings": {
-              "title": "",
-              "guarantee_icon": "loyalty",
-              "heading_text": "24/7 Support",
-              "text": "<p>Whenever you need us we will be here to help</p>",
-              "text_alignment": "text-center",
-              "text_alignment_mobile": "text-center",
-              "button_style": "btn-outline-primary",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
           "guarantee-2": {
             "type": "text",
             "settings": {
@@ -592,13 +579,13 @@
               "button_link": ""
             }
           },
-          "53868ae3-4954-40b0-ba9a-e78082225c32": {
+          "guarantee-1": {
             "type": "text",
             "settings": {
               "title": "",
               "guarantee_icon": "loyalty",
-              "heading_text": "Cash on Delivery",
-              "text": "<p>We offer Cash on delivery</p>",
+              "heading_text": "24/7 Support",
+              "text": "<p>Whenever you need us we will be here to help</p>",
               "text_alignment": "text-center",
               "text_alignment_mobile": "text-center",
               "button_style": "btn-outline-primary",
@@ -609,9 +596,8 @@
         },
         "block_order": [
           "guarantee-0",
-          "guarantee-1",
           "guarantee-2",
-          "53868ae3-4954-40b0-ba9a-e78082225c32"
+          "guarantee-1"
         ],
         "settings": {
           "show_guarantee": true,
@@ -622,7 +608,7 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
+          "text_GN3wCw": {
             "type": "text",
             "settings": {
               "title": "",
@@ -630,23 +616,23 @@
               "svg": "",
               "img_url": "",
               "logo_width": 150,
-              "heading_text": "Contact us",
+              "heading_text": "",
               "subtitle": "",
-              "text": "<p>Experience Glowi — your daily ritual for refreshed skin, self-care, and visible glow. Questions? Our team is always here to support your skincare journey<br/></p>",
+              "text": "<p>Experience Glowi — your daily ritual for refreshed skin, self-care, and visible glow. Questions? Our team is always here to support your skincare journey</p>",
               "email": false,
               "phone": true,
-              "show_social_media": true
+              "show_social_media": false
             }
           }
         },
         "block_order": [
-          "footer-0"
+          "text_GN3wCw"
         ],
         "custom_css": [],
         "settings": {
           "show_social_media": true,
           "social_media_position_desktop": "right",
-          "social_title": "Follow our social media",
+          "social_title": "About Us!",
           "show_payment_icons": true,
           "custom_credential": ""
         }

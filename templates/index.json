@@ -95,7 +95,7 @@
         "pause_hover": false,
         "text_color": "#008037",
         "text_gradient": "",
-        "background_color": "#bad99e",
+        "background_color": "#b7ce90",
         "background_gradient": ""
       }
     },
@@ -166,7 +166,7 @@
         "image_alignement": "left",
         "text_alignment": "text-center",
         "title": "Treat your skin right",
-        "text": "<p>ChloroEssence is <strong>packed with antioxidants that fight off harmful free radicals</strong>, keeping skin looking youthful and clearer, it's natural and chemical free help calm irritated skin and reduce redness.</p>",
+        "text": "<p>Glowi helps de-puff, tighten, and revive tired skin — <strong>all without chemicals</strong>. Its cooling effect soothes inflammation, <strong>reduces redness</strong>, and <strong>boosts circulation</strong>, giving your skin a <strong>healthy</strong>, <strong>natural glow</strong>. Treat your skin with <strong>pure</strong>, refreshing care — <strong>no fiededlters ne.</strong></p>",
         "button_style": "btn--primary",
         "button_label": "Get it now",
         "button_link": "shopify://products/chloro-essence-liquide-drops"
@@ -219,6 +219,30 @@
         "subtitle": "",
         "section_style": "section-blank",
         "section_height": "small"
+      }
+    },
+    "featured_products_fDmDeh": {
+      "type": "featured-products",
+      "name": "t:sections.featured_products.presets.name",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Featured collection",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "glowi-facial-roller",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
       }
     },
     "sc_testemo_bnJc9r": {
@@ -432,6 +456,7 @@
     "scrolling_xjUJEE",
     "485f467c-e3ff-4d90-8c24-e55e56f66099",
     "gallery_FG4bg4",
+    "featured_products_fDmDeh",
     "sc_testemo_bnJc9r",
     "c4c94688-4e87-4202-a2c2-883e44b9387e"
   ]
