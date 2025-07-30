@@ -530,11 +530,14 @@
           "main_menu_link_list": "main-menu",
           "navigation_type": "center",
           "logo_link": true,
+          "default_logo": "shopify://shop_images/ChatGPT_Image_Jul_27_2025_05_01_46_PM_-_Edited_9e0ff5c7-34de-4cd3-bddb-b97172350356.png",
+          "inverted_logo": "shopify://shop_images/ChatGPT_Image_Jul_27_2025_05_01_46_PM_-_Edited_9e0ff5c7-34de-4cd3-bddb-b97172350356.png",
+          "mobile_logo": "shopify://shop_images/ChatGPT_Image_Jul_27_2025_05_01_46_PM_-_Edited_9e0ff5c7-34de-4cd3-bddb-b97172350356.png",
           "default_logo_svg": "",
           "inverted_logo_svg": "",
           "mobile_logo_svg": "",
           "logo_width": 200,
-          "logo_mobile_width": 62
+          "logo_mobile_width": 80
         }
       },
       "dbtfy-instagram-feed": {
